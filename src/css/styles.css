@@ -8,11 +8,14 @@
 @import url('./reset.css');
 @import url('./base.css');
 @import url('./container.css');
-@import url('./animations.css');
 
 /* Sections style */
 @import url('./header.css');
-@import url('./vite-promo.css');
-@import url('./badges.css');
-@import url('./back-link.css');
+@import url('./our-menu.css');
+@import url('./chef.css');
+@import url('./benefits.css');
+@import url('./blog.css');
+@import url('./form-reservation.css');
+@import url('./category.css');
+@import url('./reviews.css');
 @import url('./footer.css');
